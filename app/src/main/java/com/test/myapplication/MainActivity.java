@@ -3,6 +3,9 @@ package com.test.myapplication;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
+/**
+ * @author 036
+ */
 public class MainActivity extends AppCompatActivity {
 
     @Override
